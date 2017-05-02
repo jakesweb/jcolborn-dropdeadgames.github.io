@@ -1,4 +1,4 @@
-var wthr_url = "http://api.openweathermap.org/data/2.5/weather?q=charlotte&units=metric&APPID=38033c121001eb80e9aed2f4b8f0ad8e";
+var wthr_url = "https://crossorgin.me/http://api.openweathermap.org/data/2.5/weather?q=charlotte&units=metric&APPID=38033c121001eb80e9aed2f4b8f0ad8e";
 var $curr_temp;
 var $curr_cond = "";
 
