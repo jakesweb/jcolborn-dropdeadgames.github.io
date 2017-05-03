@@ -18,8 +18,8 @@ email: jcolborn@dropdeadgames.org
 description: > # this means to ignore newlines until "baseurl:"
   This is where I cronicle the journey I take through web development, app 
   development, desktop development, and self development.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "jcolborn-dropdeadgames.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jcolborn-dropdeadgames.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jcolborn90
 github_username:  jcolborn-dropdeadgames
 
