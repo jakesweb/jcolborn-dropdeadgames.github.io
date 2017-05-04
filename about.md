@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am an aspiring developer who wants to get a job in the world of development some day. Currently, I am a systems administrator at a cloud hosting company. I am going through college as well as working on my certifications through [Free Code Camp](https://www.freecodecamp.com). 
+
+This blog is provided from Jekyll!
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jekyll" %} /
