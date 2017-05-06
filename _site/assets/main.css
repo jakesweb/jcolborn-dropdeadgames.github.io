@@ -19,8 +19,7 @@ body {
   -moz-font-feature-settings: "kern" 1;
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
-  font-kerning: normal;
-  padding-bottom: 100px; }
+  font-kerning: normal; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -55,7 +54,7 @@ ul, ol {
 
 li > ul,
 li > ol {
-  margin-bottom: 0; }
+  margin-bottom: 20px; }
 
 /**
  * Headings
