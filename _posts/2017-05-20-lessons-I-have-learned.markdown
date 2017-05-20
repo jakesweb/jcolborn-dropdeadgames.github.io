@@ -1,9 +1,9 @@
---
+---
 layout:post
 title: "Lessons I Have Learned"
 date: 2017-05-20 14:49:00 -0400
 categories: Web Development
---
+---
 It's been a short journey so far. I wish I would have started recording what I have been doing since the beginning so I could keep better track of my journey. You could say that the first lesson I have learned was to always document everything you are doing (I am definetly still struggling with this). What I wanted to do was go over my [100 Days of Code] log and pull out some of the interesting tips that I picked up for myself over the short few months. I mean, what is a developer blog without actual code.
 
 But first, a few words. I have already mentioned how important documentation was and how I was terrible at doing anything about that. The essential tip I could give was disciple. There were many times I came home late from my current job adn couldn't muster the energy to sit down and code. I would have rather had some dinner, laid down, or played video games. I have lost about a solid week of productivity due to this. I could make the excuse that I worked 70 hours at my other job, so where was the time, but looking over Steam I know I played games for about 10 hours. Imagine if I could have moved that to coding instead and saved all gaming for the weekend! That is the lesson I learned this week.
