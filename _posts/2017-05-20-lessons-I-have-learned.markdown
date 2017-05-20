@@ -1,7 +1,7 @@
 ---
-layout:post
-title: "Lessons I Have Learned"
-date: 2017-05-20 14:49:00 -0400
+layout: post
+title:  "Lessons I Have Learned"
+date:   2017-05-20 18:55:19 -0400
 categories: Web Development
 ---
 It's been a short journey so far. I wish I would have started recording what I have been doing since the beginning so I could keep better track of my journey. You could say that the first lesson I have learned was to always document everything you are doing (I am definetly still struggling with this). What I wanted to do was go over my [100 Days of Code] log and pull out some of the interesting tips that I picked up for myself over the short few months. I mean, what is a developer blog without actual code.
